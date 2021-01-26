@@ -1,2 +1,2 @@
 Title: Gen5
-Thumbnail: gen5.jpg
+Thumbnail: gen5_kulta.jpg

@@ -1,2 +1,2 @@
 Title: Legendary & Mythical
-Thumbnail: legendarymythical.jpg
+Thumbnail: legendarymythical_kulta.jpg

@@ -1,2 +1,2 @@
 Title: Alola & Galar
-Thumbnail: alolagalar.jpg
+Thumbnail: alogalar_kulta.jpg

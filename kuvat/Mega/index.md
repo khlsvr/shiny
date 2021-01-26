@@ -1,2 +1,2 @@
 Title: Mega Pokemon
-Thumbnail: mega.jpg
+Thumbnail: mega_kulta.jpg

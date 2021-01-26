@@ -1,2 +1,2 @@
 Title: Gen4
-Thumbnail: gen4.jpg
+Thumbnail: gen4_kulta.jpg

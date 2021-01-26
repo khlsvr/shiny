@@ -1,2 +1,2 @@
 Title: Shadow & Purified
-Thumbnail: shadowpurified.jpg
+Thumbnail: shadowpurified_kulta.jpg

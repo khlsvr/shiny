@@ -1,2 +1,2 @@
 Title: Event Pokemon
-Thumbnail: event.jpg
+Thumbnail: event_kulta.jpg
