@@ -8,4 +8,6 @@ Title: shiny
     Wigglytuff - kuhilasvaara
     Jigglypuff - kuhilasvaara
 
-[shiny list](static/content/release_order_shinylist.txt)
+[shiny list](static/content/dex_order_shinylist.txt)  
+[satkukatalogi](https://khlsvr.github.io/100iv/)  
+
