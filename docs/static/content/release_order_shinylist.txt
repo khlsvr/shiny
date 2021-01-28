@@ -39,8 +39,8 @@ Gen1
 36_14-Feb-2019_Clefable
 37_09-Oct-2020_Vulpix_JonnaMaaria
 38_09-Oct-2020_Ninetales_JonnaMaaria
-39_16-Apr-2019_Jigglypuff
-40_16-Apr-2019_Wigglytuff
+39_16-Apr-2019_Jigglypuff_kuhilasvaara
+40_16-Apr-2019_Wigglytuff_kuhilasvaara
 41_25-Jul-2019_Zubat_jeeee7
 42_25-Jul-2019_Golbat_kuhilasvaara
 43_03-Oct-2019_Oddish_JonnaMaaria
@@ -93,8 +93,8 @@ Gen1
 90_07-Jun-2018_Shellder_BarleFIN
 91_07-Jun-2018_Cloyster_JonnaMaaria
 92_03-Nov-2018_Gastly_kuhilasvaara
-93_03-Nov-2018_Haunter
-94_03-Nov-2018_Gengar
+93_03-Nov-2018_Haunter_Vanillaharakka
+94_03-Nov-2018_Gengar_Kaidex
 95_04-Jun-2019_Onix_Riksu91
 96_05-Oct-2018_Drowzee_Teijahunter
 97_05-Oct-2018_Hypno_Teijahunter
@@ -522,7 +522,7 @@ Gen4
 463_15-Feb-2020_Lickilicky_kuhilasvaara
 464_22-Feb-2020_Rhyperior_JonnaMaaria
 465_25-Jul-2020_Tangrowth_GiantSnowMidget
-466_15-Nov-2018_Electivire
+466_15-Nov-2018_Electivire_Kaidex
 467_15-Nov-2018_Magmortar_melankoliaharakka
 468_15-Nov-2018_Togekiss_larehunter1966
 469_20-Sep-2019_Yanmega_JonnaMaaria
