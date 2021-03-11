@@ -21,8 +21,8 @@ Gen1
 18_26-Feb-2019_Pidgeot_Hannaleea
 19_26-Feb-2019_Rattata_kuhilasvaara
 20_26-Feb-2019_Raticate_JonnaMaaria
-21_Spearow
-22_Fearow
+21_20-Feb-2021_Spearow
+22_20-Feb-2021_Fearow_larehunter1966
 23_25-Jul-2019_Ekans_BarleFIN
 24_25-Jul-2019_Arbok_nmalinie
 25_15-Aug-2017_Pikachu_Riksu91
@@ -36,7 +36,7 @@ Gen1
 33_04-Jul-2019_Nidorino_larehunter1966
 34_04-Jul-2019_Nidoking_nmalinie
 35_14-Feb-2019_Clefairy_JonnaMaaria
-36_14-Feb-2019_Clefable
+36_14-Feb-2019_Clefable_nmalinie
 37_09-Oct-2020_Vulpix_JonnaMaaria
 38_09-Oct-2020_Ninetales_JonnaMaaria
 39_16-Apr-2019_Jigglypuff_kuhilasvaara
@@ -46,18 +46,18 @@ Gen1
 43_03-Oct-2019_Oddish_JonnaMaaria
 44_03-Oct-2019_Gloom_YksineinenNalle
 45_03-Oct-2019_Vileplume_larehunter1966
-46_Paras
-47_Parasect
+46_20-Feb-2021_Paras_Harskamon
+47_20-Feb-2021_Parasect
 48_01-May-2020_Venonat_Riksu91
 49_01-May-2020_Venomoth_Bambjuu
 50_29-Apr-2019_Diglett_BarleFIN
 51_29-Apr-2019_Dugtrio_vipd3s
 52_07-Nov-2019_Meowth_nmalinie
-53_07-Nov-2019_Persian
+53_07-Nov-2019_Persian_JonnaMaaria
 54_25-Jan-2019_Psyduck_Riksu91
 55_25-Jan-2019_Golduck_Kristiina0306
 56_05-Mar-2019_Mankey_Teijahunter
-57_05-Mar-2019_Primeape
+57_05-Mar-2019_Primeape_nmalinie
 58_01-Sep-2018_Growlithe_JonnaMaaria
 59_01-Sep-2018_Arcanine_JonnaMaaria
 60_06-Aug-2019_Poliwag_JonnaMaaria
@@ -80,10 +80,10 @@ Gen1
 77_05-Nov-2018_Ponyta_Kristiina0306
 78_05-Nov-2018_Rapidash_kuhilasvaara
 79_17-Nov-2020_Slowpoke_Peettermoniste
-80_17-Nov-2020_Slowbro
+80_17-Nov-2020_Slowbro_unikirahvi
 81_16-Nov-2018_Magnemite_Kristiina0306
 82_16-Nov-2018_Magneton_Kristiina0306
-83_09-Sep-2019_Farfetch'd
+83_09-Sep-2019_Farfetch'd_BeelziePoks
 84_22-Sep-2020_Doduo_larehunter1966
 85_22-Sep-2020_Dodrio
 86_01-May-2019_Seel_vipd3s
@@ -106,8 +106,8 @@ Gen1
 103_09-Apr-2020_Exeggutor_JonnaMaaria
 104_05-Nov-2018_Cubone_Riksu91
 105_05-Nov-2018_Marowak_JonnaMaaria
-106_Hitmonlee
-107_Hitmonchan
+106_20-Feb-2021_Hitmonlee_Harskamon
+107_20-Feb-2021_Hitmonchan_Sajile
 108_15-Feb-2020_Lickitung_Riksu91
 109_25-Jul-2019_Koffing_nmalinie
 110_25-Jul-2019_Weezing_nmalinie
@@ -115,9 +115,9 @@ Gen1
 112_22-Feb-2020_Rhydon_Teijahunter
 113_13-Feb-2020_Chansey_BarleFIN
 114_25-Jul-2020_Tangela_Riksu91
-115_09-Sep-2019_Kangaskhan
+115_09-Sep-2019_Kangaskhan_Ellie33101
 116_13-Jun-2019_Horsea_JonnaMaaria
-117_13-Jun-2019_Seadra
+117_13-Jun-2019_Seadra_JonnaMaaria
 118_24-Nov-2020_Goldeen_MeiMaaria
 119_24-Nov-2020_Seaking_kuhilasvaara
 120_07-Aug-2020_Staryu_GiantSnowMidget
@@ -128,11 +128,11 @@ Gen1
 125_15-Nov-2018_Electabuzz_Xe3ta
 126_22-Mar-2018_Magmar_jeeee7
 127_01-Nov-2018_Pinsir_nmalinie
-128_09-Sep-2019_Tauros
+128_09-Sep-2019_Tauros_Riksu91
 129_22-Mar-2017_Magikarp_JonnaMaaria
 130_22-Mar-2017_Gyarados_kuhilasvaara
 131_18_Apr_2019_Lapras_Riksu91
-132_Ditto
+132_20-Feb-2021_Ditto_JonnaMaaria
 133_11-Aug-2018_Eevee_Riksu91
 134_11-Aug-2018_Vaporeon_Riksu91
 135_11-Aug-2018_Jolteon_Kristiina0306
@@ -143,7 +143,7 @@ Gen1
 140_24-May-2018_Kabuto_BarleFIN
 141_24-May-2018_Kabutops_Riksu91
 142_24-May-2018_Aerodactyl_JonnaMaaria
-143_Snorlax
+143_20-Feb-2021_Snorlax
 144_07-Jul-2018_Articuno_JonnaMaaria
 145_21-Jul-2018_Zapdos_JonnaMaaria
 146_08-Sep-2018_Moltres_Riksu91
@@ -151,7 +151,7 @@ Gen1
 148_24-Feb-2018_Dragonair_heipyh
 149_24-Feb-2018_Dragonite_larehunter1966
 150_17-Sep-2019_Mewtwo_Riksu91
-151_Mew
+151_20-Feb-2021_Mew
 
 Gen2
 152_22-Sep-2018_Chikorita_BarleFIN
@@ -171,7 +171,7 @@ Gen2
 166_11-Sep-2020_Ledian_kuhilasvaara
 167_Spinarak
 168_Ariados
-169_25-Jul-2019_Crobat
+169_25-Jul-2019_Crobat_Kristiina0306
 170_14-Apr-2020_Chinchou_moogleheksa
 171_14-Apr-2020_Lanturn_GiantSnowMidget
 172_15-Aug-2017_Pichu_BarleFIN
@@ -270,7 +270,7 @@ Gen2
 238_14-Feb-2019_Smoochum_kuhilasvaara
 239_15-Nov-2018_Elekid_Tupladekki
 240_22-Mar-2018_Magby_jeeee7
-241_Miltank
+241_26-Jan-2021_Miltank_chocoSaana
 242_13-Feb-2020_Blissey_chocoSaana
 243_29-Jun_2019_Raikou_Teijahunter
 244_14-Jul-2019_Entei_sirkkana
@@ -330,7 +330,7 @@ Gen3
 296_01-May-2018_Makuhita_BarleFIN
 297_01-May-2018_Hariyama_Bambjuu
 298_18-Dec-2018_Azurill
-299_Nosepass
+299_09-Mar-2021_Nosepass
 300_15-May-2020_Skitty_nmalinie
 301_15-May-2020_Delcatty_chocoSaana
 302_20-Oct-2017_Sableye_Riksu91
@@ -358,7 +358,7 @@ Gen3
 324_Torkoal
 325_04-Feb-2019_Spoink_Riksu91
 326_04-Feb-2019_Grumpig_Kristiina0306
-327A_01-Nov-2019_Spinda_1
+327A_01-Nov-2019_Spinda_1_Kristiina0306
 327B_02-Sep-2020_Spinda_2
 327C_01-Sep-2019_Spinda_3
 327D_01-Sep-2019_Spinda_4
@@ -366,7 +366,7 @@ Gen3
 327F_01-Mar-2020_Spinda_6_JonnaMaaria
 327G_01-Jan-2020_Spinda_7
 327H_01-Jul-2019_Spinda_8_JonnaMaaria
-327I_Spinda_9
+327I_14-Feb-2021_Spinda_9
 328_12-Oct-2019_Trapinch_Vanillaharakka
 329_12-Oct-2019_Vibrava_Hannaleea
 330_12-Oct-2019_Flygon_dereksteaparty
@@ -469,8 +469,8 @@ Gen4
 415_Combee
 416_Vespiquen
 417_Pachirisu
-418_Buizel
-419_Floatzel
+418_12-Jan-2021_Buizel_JonnaMaaria
+419_12-Jan-2021_Floatzel
 420_Cherubi
 421A_Cherrim_Overcast
 421B_Cherrim_Sunshine
@@ -532,7 +532,7 @@ Gen4
 473_16-Feb-2019_Mamoswine_JonnaMaaria
 474_20-Sep-2020_Porygon-Z_chocoSaana
 475_03-Aug-2019_Gallade_Xe3ta
-476_Probopass
+476_09-Mar-2021_Probopass
 477_15-Nov-2018_Dusknoir_Kristiina0306
 478_31-Jan-2019_Froslass_larehunter1966
 479A_Rotom
@@ -669,7 +669,7 @@ Gen5
 592B_Frillish_M
 593A_Jellicent_F
 593B_Jellient_M
-594_Alomomola
+594_14-Feb-2021_Alomomola_kuhilasvaara
 595_Joltik
 596_Galvantula
 597_07-Nov-2020_Ferroseed
@@ -716,13 +716,13 @@ Gen5
 638_17-Mar-2020_Cobalion_JonnaMaaria
 639_20-May-2020_Terrakion_BarleFIN
 640_13-May-2020_Virizion_JonnaMaaria
-641A_Tornadus_Incarnate_Forme
+641A_06-Mar-2021_Tornadus_Incarnate_Forme_AstralSquirrel
 641B_Tornadus_Therian_Forme
-642A_Thundurus_Incarnate_Forme
+642A_11-Mar-2021_Thundurus_Incarnate_Forme
 642B_Thundurus_Therian_Forme
 643_Reshiram
 644_Zekrom
-645A_Landorus_Incarnate_Forme
+645A_01-Mar-2021_Landorus_Incarnate_Forme_nmalinie
 645B_Landorus_Therian_Forme
 646A_Kyurem
 646B_White_Kyurem
@@ -738,7 +738,9 @@ Gen5
 649E_Genesect_Douse_Drive
 
 Gen6
-Tulossa
+661_06-Mar-2021_Fletchling_Pete5189
+662_06-Mar-2021_Fletchinder_Harskamon
+663_06-Mar-2021_Talonflame_Iimako
 
 Alola & Galar
 01_06-Nov-2018_Alolan_Marowak_nobelesko
@@ -776,7 +778,8 @@ Mega
 07_29-Sep-2020_Mega_Houndoom_JonnaMaaria
 08_23-Oct-2020_Mega_Gengar_JonnaMaaria
 09_01-Dec-2020_Mega_Abomasnow_kuhilasvaara
-10_19-Jan-2021_Mega_Ampharos
+10_19-Jan-2021_Mega_Ampharos_kuhilasvaara
+11_09-Feb-2021_Mega_Gyarados_Vanillaharakka
 
 Shadow & Purified
 Tulossa
