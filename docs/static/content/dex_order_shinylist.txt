@@ -392,7 +392,7 @@ Gen3
 350_19-Jan-2019_Milotic_kuhilasvaara
 351A_29-Mar-2019_Castform_Normal_Kristiina0306
 351B_Castform_Sunny
-351C_Castform_Rainy
+351C_24-Mar-2021_Castform_Rainy_Vanillaharakka
 351D_Castform_Snowy
 352_Kecleon
 353_31-Oct-2017_Shuppet_Riksu91
@@ -702,7 +702,7 @@ Gen5
 624_Pawniard
 625_Bisharp
 626_Bouffalant
-627_14-Dec-2020_Rufflet
+627_14-Dec-2020_Rufflet_Riksu91
 628_14-Dec-2020_Braviary
 629_Vullaby
 630_Mandibuzz
@@ -718,7 +718,7 @@ Gen5
 640_13-May-2020_Virizion_JonnaMaaria
 641A_06-Mar-2021_Tornadus_Incarnate_Forme_AstralSquirrel
 641B_Tornadus_Therian_Forme
-642A_11-Mar-2021_Thundurus_Incarnate_Forme
+642A_11-Mar-2021_Thundurus_Incarnate_Forme_Maikhil
 642B_Thundurus_Therian_Forme
 643_Reshiram
 644_Zekrom
@@ -747,7 +747,7 @@ Gen6
 656_Froakie
 657_Frogadier
 658_Greninja
-659_Bunnelby
+659_04-Apr-2021_Bunnelby_Sirkkana
 660_Diggersby
 661_06-Mar-2021_Fletchling_Pete5189
 662_06-Mar-2021_Fletchinder_Harskamon
@@ -791,6 +791,8 @@ Mega
 09_01-Dec-2020_Mega_Abomasnow_kuhilasvaara
 10_19-Jan-2021_Mega_Ampharos_kuhilasvaara
 11_09-Feb-2021_Mega_Gyarados_Vanillaharakka
+12_16-Mar-2021_Mega_Manectric
+13_04-Apr-2021_Mega_Lopunny
 
 Shadow & Purified
 01_07-Nov-2019_Shadow_Meowth
@@ -857,7 +859,7 @@ Shadow & Purified
 62_12-Oct-2020_Purified_Omastar
 63_02-Feb-2021_Shadow_Aerodactyl_MeiMaaria
 64_02-Feb-2021_Purified_Aerodactyl
-65_02-Feb-2021_Shadow_Carvanha
+65_02-Feb-2021_Shadow_Carvanha_Pete5189
 66_02-Feb-2021_Purified_Carvanha
 67_02-Feb-2021_Shadow_Sharpedo
 68_02-Feb-2021_Purified_Sharpedo
