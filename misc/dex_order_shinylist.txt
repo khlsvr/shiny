@@ -1260,8 +1260,9 @@ Mega
 12_16-Mar-2021_Mega_Manectric
 13_04-Apr-2021_Mega_Lopunny
 14_15-May-2021_Mega_Altaria_JonnaMaaria
-15_08-Jun-2021_Mega_Slowbro
+15_08-Jun-2021_Mega_Slowbro_JonnaMaaria
 16_22-Oct-2021_Mega_Absol_JonnaMaaria
+17_01-Dec-2021_Mega_Steelix
 
 Shadow & Purified
 01_07-Nov-2019_Shadow_Meowth
