@@ -756,7 +756,8 @@ Gen6
 665_Spewpa
 666_Vivillon
 667_Litleo
-668_Pyroar
+668A_Pyroar_F
+668B_Pyroar_M
 669_Flabebe
 670_Floette
 671_Florges
@@ -1207,7 +1208,8 @@ Legendary & Mythical
 717_Yveltal
 718_Zygarde
 719_Diancie
-720_Hoopa
+720A_Hoopa_Confined
+720B_Hoopa_Unbound
 721_Volcanion
 772_Type_Null
 773_Silvally
