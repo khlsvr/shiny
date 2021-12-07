@@ -696,7 +696,7 @@ Gen5
 618_Stunfisk
 619_Mienfoo
 620_Mienshao
-621_Druddigon
+621_07-Dec-2021_Druddigon
 622_Golett
 623_Golurk
 624_Pawniard
@@ -720,11 +720,11 @@ Gen5
 641B_Tornadus_Therian_Forme
 642A_11-Mar-2021_Thundurus_Incarnate_Forme_Maikhil
 642B_Thundurus_Therian_Forme
-643_Reshiram
-644_Zekrom
+643_01-Dec-2021_Reshiram_Dogis94
+644_01-Dec-2021_Zekrom_Kaidex10
 645A_01-Mar-2021_Landorus_Incarnate_Forme_nmalinie
 645B_Landorus_Therian_Forme
-646A_Kyurem
+646A_16-Dec-2021_Kyurem
 646B_White_Kyurem
 646C_Black_Kyurem
 647A_Keldeo_Ordinary_Form
@@ -798,7 +798,7 @@ Gen6
 697_Tyrantrum
 698_Amaura
 699_Aurorus
-700_Sylveon
+700_25-May-2021_Sylveon_nmalinie
 701_Hawlucha
 702_Dedenne
 703_Carbink
@@ -1033,7 +1033,7 @@ Alola & Galar
 21_25-May-2021_Galarian_Zigzagoon_Kaidex10
 22_25-May-2021_Galarian_Linoone_JonnaMaaria
 23_20-Aug-2021_Galarian_Meowth
-24_20-Aug-2021_Galarian_Farfetch'd
+24_20-Aug-2021_Galarian_Farfetch'd_Riksu91
 25_20-Aug-2021_Galarian_Weezing
 26_20-Aug-2021_Galarian_Stunfisk
 
