@@ -2,11 +2,11 @@ Title: shiny
 
 5 tuoreinta lisäystä:
 
-    Flower Crown Chansey - Riksu91
-    Rufflet - Riksu91
-    Bunnelby - Sirkkana
-    Castfrm Rainy - Vanillaharakka
-    Thundurus Incarnate Forme - Maikhil
+    Mega Slowbro - JonnaMaaria
+    Reshiram - Dogis94
+    Zekrom - Kaidex10
+    Mimikyu Pikachu - MeiMaaria
+    Mega Absol - JonnaMaaria
 
 [shiny list](https://raw.githubusercontent.com/khlsvr/shiny/master/misc/dex_order_shinylist.txt)  
 [satkukatalogi](https://khlsvr.github.io/100iv/)  
